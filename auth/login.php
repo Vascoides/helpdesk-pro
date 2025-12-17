@@ -35,6 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <html>
 <head>
     <title>Login | Helpdesk Pro</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 <body>
 

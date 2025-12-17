@@ -29,6 +29,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <html>
 <head>
     <title>Create Ticket | Helpdesk Pro</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 <body>
 <h2>Create New Ticket</h2>

@@ -17,6 +17,7 @@ $tickets = $stmt->fetchAll(PDO::FETCH_ASSOC);
 <html>
 <head>
     <title>User Dashboard | Helpdesk Pro</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 <body>
 <h2>Welcome, <?php echo htmlspecialchars($user_name); ?>!</h2>
